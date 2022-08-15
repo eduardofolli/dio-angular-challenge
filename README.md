@@ -1,5 +1,8 @@
 # DioAngularChallenge
 
+Esse projeto foi realizado em conjunto a plataforma DIO para conclusão de desafio de projeto!!
+Vale ressaltar que ainda segue em desenvolvimento e terá seu layout atualizado!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
